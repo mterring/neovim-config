@@ -15,6 +15,7 @@ I installed [LiterationMono](https://github.com/ryanoasis/nerd-fonts/releases/do
 - Show window title as `[filename] - [root folder] - NVIM`
 - Color scheme as gruvbox light
 - Support for camel case words
+- Automatically set X selection when selecting text with mouse
 - Multi-select with vim-visual-multi - TODO maybe not working
 
 ## Keymaps
